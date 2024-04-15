@@ -135,7 +135,7 @@ html {
     display: none;
 }
 .head--image {
-    background: url('image/teenage_engineering_tp7.png') no-repeat center;
+    background: url('image/teenage_engineering_tp7.webp') no-repeat center;
     background-size: cover;
     height: 30rem;
     width: 100%;
@@ -163,7 +163,7 @@ html {
     flex-shrink: 0;
 }
 .sec-best--card-image {
-    background: url(image/teenage_engineering_tp1.png) no-repeat;
+    background: url(image/teenage_engineering_tp1.webp) no-repeat;
     background-size: cover;
     background-position: center;
     height: 25em;
@@ -172,15 +172,15 @@ html {
     justify-content: space-between;
 }
 .sec-best--card:nth-child(2) .sec-best--card-image {
-    background: url(image/teenage_engineering_cm15_microphone_8.jpg) no-repeat center;
+    background: url(image/teenage_engineering_cm15_microphone_8.webp) no-repeat center;
     background-size: cover;
 }
 .sec-best--card:nth-child(3) .sec-best--card-image {
-    background: url(image/teenage_engineering_tp711.png) no-repeat center;
+    background: url(image/teenage_engineering_tp711.webp) no-repeat center;
     background-size: cover;
 }
 .sec-best--card:nth-child(4) .sec-best--card-image {
-    background: url(image/teenage_engineering_tp72.png) no-repeat center;
+    background: url(image/teenage_engineering_tp72.webp) no-repeat center;
     background-size: cover;
 }
 .sec-best--card-image-bot, .sec-best--card-bot {
@@ -226,7 +226,7 @@ td {
     gap: 1rem;
 }
 .sec-exp--card {
-    background: url(image/teenage_engineering_tp1.png) no-repeat;
+    background: url(image/teenage_engineering_tp1.webp) no-repeat;
     background-size: cover;
     background-position: center;
     height: 30em;
@@ -242,11 +242,11 @@ td {
     align-items: center;
 }
 .sec-exp--card:nth-child(2) {
-    background: url(image/teenage_engineering_cm15_microphone_8.jpg) no-repeat center;
+    background: url(image/teenage_engineering_cm15_microphone_8.webp) no-repeat center;
     background-size: cover;
 }
 .sec-exp--card:nth-child(3) {
-    background: url(image/teenage_engineering_tp711.png) no-repeat center;
+    background: url(image/teenage_engineering_tp711.webp) no-repeat center;
     background-size: cover;
 }
 .sec-exp--card-ar {
