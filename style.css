@@ -226,7 +226,7 @@ td {
     gap: 1rem;
 }
 .sec-exp--card {
-    background: url(image/teenage_engineering_tp1.webp) no-repeat;
+    background: url(image/211126.webp) no-repeat;
     background-size: cover;
     background-position: center;
     height: 30em;
@@ -242,11 +242,11 @@ td {
     align-items: center;
 }
 .sec-exp--card:nth-child(2) {
-    background: url(image/teenage_engineering_cm15_microphone_8.webp) no-repeat center;
+    background: url(image/211215.webp) no-repeat center;
     background-size: cover;
 }
 .sec-exp--card:nth-child(3) {
-    background: url(image/teenage_engineering_tp711.webp) no-repeat center;
+    background: url(image/211410.webp) no-repeat center;
     background-size: cover;
 }
 .sec-exp--card-ar {
@@ -323,8 +323,9 @@ td {
     color: var(--gray);
 }
 .tx-wh {
-    color: var(--white);
+    color: var(--blackm);
 }
+
 .tx-bord {
     border: 1px solid var(--gray);
     border-radius: 0.875rem;
